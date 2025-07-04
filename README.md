@@ -1,4 +1,4 @@
-# DSA-SQL
+
 #1. Which product category had the highest sales?
 SELECT 
     Product_Category,
